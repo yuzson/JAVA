@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JAVA</string>
+    <string name="button">按钮一</string>
+    <string name="button2">按钮二</string>
+    <string name="default_view">默认信息</string>
+    <string name="click_view">点击信息</string>
+</resources>
